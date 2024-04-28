@@ -10,4 +10,4 @@ Code Structure
 
 Results
 
-Corresponding segmentation outputs to demonstrate the model's capabilities. Quantitative metricS' results IoU=83.6 or PQscores=61.37.
+Corresponding segmentation outputs to demonstrate the model's capabilities. Quantitative metrics' results IoU=83.6 or PQscores=61.37.
